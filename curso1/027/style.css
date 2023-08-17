@@ -1,0 +1,13 @@
+.fonte-insana {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1em;
+    font-style: inherit;
+    color: rgb(14, 9, 11);
+    text-transform: capitalize;
+    text-decoration: underline green;
+}
+
+.fonte-insanadois {
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+}
